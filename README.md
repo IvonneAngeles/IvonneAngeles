@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://www.canva.com/design/DAGXCEvWFks/ru0Is75-yyc_zZw_qpAlCA/edit?utm_content=DAGXCEvWFks&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="800"/>
+</div>
+
 - 👋 Hi, I’m @IvonneAngeles
 - 🌱 I’m currently learning Data Analyst
 - Quiero seguir aprendiendo 
