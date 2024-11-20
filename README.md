@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/IvonneAngeles/IvonneAngeles/blob/main/Banner%20ivonne.png" width="800"/>
 </div>
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivonne-angeles-hernandez/)
+[![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=Withe&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fivonne-angeles-hernandez%2F)
+
 
 
 ## Sobre mí 
